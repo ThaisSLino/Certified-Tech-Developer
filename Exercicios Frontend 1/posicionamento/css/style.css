@@ -1,0 +1,31 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.caixa{
+    background-color: blueviolet;
+    border-radius: 20px;
+    height: 300px;
+    width: 300px;
+    text-align: center;
+    
+}
+
+.c-1{
+position: absolute
+right:0
+top:0
+}
+.c-2{
+position: relative
+left:
+top:
+    }
+
+.c-3{
+position: relative
+left:
+top:
+    }
